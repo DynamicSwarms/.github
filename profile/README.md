@@ -2,6 +2,8 @@
 
 DynamicSwarms is a ROS2 software stack designed to control a swarm of crazyflie quadcopters.
 
+The main repository and the documentation of the software stack can be found in the ds-crazyflies repository.
+
 <!--
 
 **Here are some ideas to get you started:**
